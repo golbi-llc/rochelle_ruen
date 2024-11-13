@@ -1,0 +1,42 @@
+{
+  "name": "DonutMissOut",
+  "private": true,
+  "description": "Your favorite local donut shop, with a twist...or a hole.",
+  "version": "0.1.0",
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "emailjs": "^4.0.3",
+    "framer-motion": "^11.11.8",
+    "gatsby": "^5.8.1",
+    "gatsby-plugin-anchor-links": "^1.2.1",
+    "gatsby-plugin-manifest": "^5.8.0",
+    "gatsby-plugin-react-helmet": "^6.9.0",
+    "gatsby-plugin-smoothscroll": "^1.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^6.10.0",
+    "smooth-scroll": "^16.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
