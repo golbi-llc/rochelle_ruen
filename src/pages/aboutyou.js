@@ -62,7 +62,7 @@ export default function aboutyou() {
               
 
               <div className="aboutyou-bullet">
-                <h3 className="aboutyou-bullet-header">01 - Rediscover YOU</h3>
+                <h3 className="aboutyou-bullet-header">01 — Rediscover YOU</h3>
                 <p className="aboutyou-text">Rediscovering yourself is not about finding something new, but unearthing the forgotten treasure within.  This process isn’t only about identifying what you truly want from life, but also about learning how to break free from limiting beliefs and past conditioning.  Each session serves as a stepping stone towards greater confidence and clarity.  You become empowered to make decisions that align more authentically with your true self.
                 </p>
               </div>
