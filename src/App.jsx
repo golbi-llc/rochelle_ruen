@@ -30,13 +30,7 @@ function App() {
           transition={{ duration: 0.5 }}
           className="text-center"
         >
-          <div className="w-16 h-16 border-4 border-primary-500 border-t-transparent rounded-full animate-spin mx-auto mb-4"></div>
-          <h2 className="text-2xl font-serif text-primary-600">
-            Rochelle Ruen
-          </h2>
-          <p className="text-gray-600">
-            Life Coach & Personal Development Specialist
-          </p>
+          <div className="w-16 h-16 border-4 border-primary-500 border-t-transparent rounded-full animate-spin mx-auto"></div>
         </motion.div>
       </div>
     );
