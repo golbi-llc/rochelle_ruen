@@ -494,12 +494,12 @@ h6 {
 .hero-image {
   display: block;
   margin-right: 4rem;
-  width: 45%;
-  height: auto;
+  height: 450px;
+  width: 300px;
   object-fit: cover;
-  border-radius: 1.5rem;
-  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-  margin-bottom: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35);
+  object-position: 65% 0;
 }
 
 @media (max-width: 900px) {
