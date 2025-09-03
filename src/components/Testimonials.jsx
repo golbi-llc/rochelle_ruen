@@ -13,19 +13,19 @@ const Testimonials = () => {
       text: "Rochelle helped me rediscover my passion and purpose. Her coaching style is both gentle and powerful, pushing me to be my authentic self.",
       author: "Sarah M.",
       role: "Marketing Director",
-      avatar: "/imgs/sarah.png",
+      avatar: "imgs/sarah.png",
     },
     {
       text: "Working with Rochelle was transformative. She has a gift for helping you see your own potential and guiding you toward it with compassion and wisdom.",
       author: "Jennifer L.",
       role: "Entrepreneur",
-      avatar: "/imgs/jennifer.png",
+      avatar: "imgs/jennifer.png",
     },
     {
       text: "Rochelle's approach is unique - she doesn't just give advice, she helps you find the answers within yourself. I'm forever grateful for our sessions.",
       author: "Michelle R.",
       role: "Life Coach",
-      avatar: "/imgs/michelle.png",
+      avatar: "imgs/michelle.png",
     },
   ];
 
