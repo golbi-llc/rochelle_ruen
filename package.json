@@ -1,9 +1,9 @@
 {
-  "name": "rochelle-ruen-coaching",
+  "name": "rochelle_ruen",
   "private": true,
   "description": "Rochelle Ruen - Life Coach & Personal Development Specialist",
   "version": "1.0.0",
-  "homepage": "https://golbi-llc.github.io/rochelle_ruen",
+  "homepage": "https://golbi-llc.github.io/rochelle_ruen/",
   "license": "MIT",
   "scripts": {
     "predeploy": "vite build",
